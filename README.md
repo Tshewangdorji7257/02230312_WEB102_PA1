@@ -35,7 +35,7 @@ Run the server using node index.js.
 The server will be running on port 3000 by default. it can change the port in the index.js file if needed.
 
 Usage
-You can interact with the server using any HTTP client (e.g., cURL, Postman, browser).
+It can interact with the server using any HTTP client (e.g., cURL, Postman, browser).
 
 Example cURL commands:
 
